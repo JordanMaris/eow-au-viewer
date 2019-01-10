@@ -2,6 +2,9 @@
 
 A simple viewer to visualize EOW:AU data.
 
+## Fixes
+- Fixed most active user sorting
+
 ## New Features
 - Sliding side panels with User information and Recent Measurements
 - Click on user to see their measurements and statistics
